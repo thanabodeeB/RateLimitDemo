@@ -1,0 +1,7 @@
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\bin\Debug\RateLimitDemo.exe.config
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\bin\Debug\RateLimitDemo.exe
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\bin\Debug\RateLimitDemo.pdb
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\obj\Debug\RateLimitDemo.csproj.CoreCompileInputs.cache
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\obj\Debug\RateLimitDemo.exe
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\obj\Debug\RateLimitDemo.pdb
+C:\Users\stell\source\repos\RateLimitDemo\RateLimitDemo\obj\Debug\RateLimitDemo.csprojAssemblyReference.cache
